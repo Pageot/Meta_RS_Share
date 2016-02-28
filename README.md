@@ -2,7 +2,7 @@
 
 Cela permet de faire ceci
 
-[Exemple](image/FB_Thumbnail.png)
+![Exemple](image/FB_Thumbnail.png)
 
 
 ## Fondamentaux
