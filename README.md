@@ -1,5 +1,9 @@
 # Pense-bête des meta-données pour les principaux réseaux sociaux
 
+Cela permet de faire ceci
+
+[Exemple](image/FB_Thumbnail.png)
+
 
 ## Fondamentaux
 ```html
